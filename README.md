@@ -22,3 +22,7 @@ uv run jupyter lab notebooks/    # open the exploratory notebook
 
 If the UCI host is unreachable, download the official zip manually and run
 `uv run steelops-download --from-zip path/to/steel+industry+energy+consumption.zip`.
+
+## License
+
+Code is released under the [MIT License](LICENSE). The dataset is not redistributed in this repository; it is downloaded from UCI and remains under its own license (CC BY 4.0), credited above.
