@@ -1,0 +1,24 @@
+{
+  "dataset": "Steel Industry Energy Consumption",
+  "provider": "UCI Machine Learning Repository",
+  "dataset_id": 851,
+  "landing_page": "https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption",
+  "download_url": "https://archive.ics.uci.edu/static/public/851/steel+industry+energy+consumption.zip",
+  "doi": "10.24432/C52G8C",
+  "license": "CC BY 4.0",
+  "acquisition_method": "download",
+  "retrieved_at_utc": "2026-11-08T23:00:01+00:00",
+  "files": {
+    "zip": {
+      "name": "steel_industry_energy_consumption.zip",
+      "sha256": "d82d28b33780ff1582507fcf08ae764ff648af459d58234370c551e62aadeaef",
+      "bytes": 481973
+    },
+    "csv": {
+      "name": "Steel_industry_data.csv",
+      "sha256": "9b1cee6f9cb9cd9df2b95814ca90a9a2ff15b7f5f1fba0fae3c643e82072eacc",
+      "bytes": 2731389
+    }
+  },
+  "checksums_pinned_in_config": true
+}
